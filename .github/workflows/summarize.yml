@@ -1,0 +1,32 @@
+name: Summarize Daily Trends and Deploy
+
+on:
+  schedule:
+    - cron: '59 23 * * *' # Run at 23:59 UTC daily
+  workflow_dispatch:
+
+jobs:
+  summarize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          
+      - name: Install dependencies
+        run: npm install
+        
+      - name: Run Summarizer
+        run: node scripts/summarizer.mjs
+        env:
+          VERCEL_WEBHOOK_URL: ${{ secrets.VERCEL_WEBHOOK_URL }}
+        
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add daily_trends/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-generate daily trends" && git push)
