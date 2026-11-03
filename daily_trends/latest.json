@@ -2,79 +2,103 @@
   {
     "keyword": "relationship",
     "trendStatus": "🔥 Hot",
-    "stats": "4 recent mentions",
+    "stats": "5 recent mentions",
     "description": "Current trending discussions surrounding 'relationship'.",
     "questions": [
-      "What should I do about my gay friend (45m) and my son (23m) having a relationship?"
+      "My (26M) girlfriend (28F) says that the only way we can have a relationship is if she never has to see my family again. What should I do?",
+      "How to navigate warning signs of physical aggression in my relationship?(32M, 27F)",
+      "My husband left me and our children for his affair partner 16 months ago. They’ve had a very chaotic relationship. Do you think they’ll actually last?"
     ]
+  },
+  {
+    "keyword": "girlfriend",
+    "trendStatus": "🔥 Hot",
+    "stats": "2 recent mentions",
+    "description": "Current trending discussions surrounding 'girlfriend'.",
+    "questions": [
+      "My (26M) girlfriend (28F) says that the only way we can have a relationship is if she never has to see my family again. What should I do?",
+      "My girlfriend (27F) and I (27M) have been together for 6 years, but I’m worried about our future if she moves in with a friend again. How do I handle this?"
+    ]
+  },
+  {
+    "keyword": "boundaries",
+    "trendStatus": "🔥 Hot",
+    "stats": "2 recent mentions",
+    "description": "Current trending discussions surrounding 'boundaries'.",
+    "questions": []
   },
   {
     "keyword": "dating",
     "trendStatus": "🔥 Hot",
-    "stats": "3 recent mentions",
+    "stats": "2 recent mentions",
     "description": "Current trending discussions surrounding 'dating'.",
     "questions": []
   },
   {
-    "keyword": "boyfriend",
+    "keyword": "husband",
     "trendStatus": "🔥 Hot",
     "stats": "2 recent mentions",
-    "description": "Current trending discussions surrounding 'boyfriend'.",
+    "description": "Current trending discussions surrounding 'husband'.",
     "questions": [
-      "How can I seduce my boyfriend better?"
+      "I 30F am injured and I don’t think my husband 30M is being an adequate caregiver. How do I stop the resentment building up?",
+      "My husband left me and our children for his affair partner 16 months ago. They’ve had a very chaotic relationship. Do you think they’ll actually last?"
     ]
   },
   {
-    "keyword": "made",
+    "keyword": "ago",
     "trendStatus": "Trending",
     "stats": "6 recent mentions",
-    "description": "Current trending discussions surrounding 'made'.",
-    "questions": []
-  },
-  {
-    "keyword": "tell",
-    "trendStatus": "Trending",
-    "stats": "6 recent mentions",
-    "description": "Current trending discussions surrounding 'tell'.",
+    "description": "Current trending discussions surrounding 'ago'.",
     "questions": [
-      "I (21M) found out my girlfriend (21F) might not find me physically attractive, despite always telling me otherwise. How do I tell her what I saw?"
+      "My husband left me and our children for his affair partner 16 months ago. They’ve had a very chaotic relationship. Do you think they’ll actually last?"
     ]
   },
   {
-    "keyword": "those",
-    "trendStatus": "Trending",
-    "stats": "6 recent mentions",
-    "description": "Current trending discussions surrounding 'those'.",
-    "questions": [
-      "For those going through a divorce due to infidelity in their marriage: how much time passed, after the infidelity was revealed, before you or your spouse decided to divorce? How many years had you been married, and what did the whole process cost?"
-    ]
-  },
-  {
-    "keyword": "personality disorder",
-    "trendStatus": "Trending",
-    "stats": "3 recent mentions",
-    "description": "Current trending discussions surrounding 'personality disorder'.",
-    "questions": []
-  },
-  {
-    "keyword": "mental health",
-    "trendStatus": "Trending",
-    "stats": "3 recent mentions",
-    "description": "Current trending discussions surrounding 'mental health'.",
-    "questions": []
-  },
-  {
-    "keyword": "red flag",
-    "trendStatus": "🔥 Hot",
-    "stats": "1 recent mentions",
-    "description": "Current trending discussions surrounding 'red flag'.",
-    "questions": []
-  },
-  {
-    "keyword": "understand",
+    "keyword": "again",
     "trendStatus": "Trending",
     "stats": "5 recent mentions",
-    "description": "Current trending discussions surrounding 'understand'.",
+    "description": "Current trending discussions surrounding 'again'.",
+    "questions": [
+      "My (26M) girlfriend (28F) says that the only way we can have a relationship is if she never has to see my family again. What should I do?",
+      "My girlfriend (27F) and I (27M) have been together for 6 years, but I’m worried about our future if she moves in with a friend again. How do I handle this?"
+    ]
+  },
+  {
+    "keyword": "boyfriend",
+    "trendStatus": "🔥 Hot",
+    "stats": "1 recent mentions",
+    "description": "Current trending discussions surrounding 'boyfriend'.",
+    "questions": []
+  },
+  {
+    "keyword": "trying",
+    "trendStatus": "Trending",
+    "stats": "5 recent mentions",
+    "description": "Current trending discussions surrounding 'trying'.",
+    "questions": []
+  },
+  {
+    "keyword": "finally",
+    "trendStatus": "Trending",
+    "stats": "5 recent mentions",
+    "description": "Current trending discussions surrounding 'finally'.",
+    "questions": []
+  },
+  {
+    "keyword": "left",
+    "trendStatus": "Trending",
+    "stats": "5 recent mentions",
+    "description": "Current trending discussions surrounding 'left'.",
+    "questions": [
+      "Me [27F] and newly engaged fiancé [26M] of 5 years iced me out, left me stranded in a car for 2 hours, and now that we're on a break, I'm losing my mind. Need advice?",
+      "My husband left me and our children for his affair partner 16 months ago. They’ve had a very chaotic relationship. Do you think they’ll actually last?"
+    ]
+  },
+  {
+    "keyword": "lot",
+    "trendStatus": "Trending",
+    "stats": "5 recent mentions",
+    "description": "Current trending discussions surrounding 'lot'.",
     "questions": []
   },
   {
@@ -82,79 +106,55 @@
     "trendStatus": "Trending",
     "stats": "5 recent mentions",
     "description": "Current trending discussions surrounding 'having'.",
-    "questions": [
-      "What should I do about my gay friend (45m) and my son (23m) having a relationship?"
-    ]
+    "questions": []
   },
   {
-    "keyword": "boundaries",
+    "keyword": "toxic",
     "trendStatus": "🔥 Hot",
     "stats": "1 recent mentions",
-    "description": "Current trending discussions surrounding 'boundaries'.",
+    "description": "Current trending discussions surrounding 'toxic'.",
     "questions": []
-  },
-  {
-    "keyword": "tldr",
-    "trendStatus": "Trending",
-    "stats": "5 recent mentions",
-    "description": "Current trending discussions surrounding 'tldr'.",
-    "questions": []
-  },
-  {
-    "keyword": "says",
-    "trendStatus": "Trending",
-    "stats": "5 recent mentions",
-    "description": "Current trending discussions surrounding 'says'.",
-    "questions": []
-  },
-  {
-    "keyword": "makes",
-    "trendStatus": "Trending",
-    "stats": "5 recent mentions",
-    "description": "Current trending discussions surrounding 'makes'.",
-    "questions": [
-      "My partner (M39) pushes me (F37) to do things &quot;for my own good&quot; and it makes us both miserable. How do I get him to stop?"
-    ]
-  },
-  {
-    "keyword": "tried",
-    "trendStatus": "Trending",
-    "stats": "5 recent mentions",
-    "description": "Current trending discussions surrounding 'tried'.",
-    "questions": []
-  },
-  {
-    "keyword": "myself",
-    "trendStatus": "Trending",
-    "stats": "5 recent mentions",
-    "description": "Current trending discussions surrounding 'myself'.",
-    "questions": []
-  },
-  {
-    "keyword": "try",
-    "trendStatus": "Trending",
-    "stats": "5 recent mentions",
-    "description": "Current trending discussions surrounding 'try'.",
-    "questions": [
-      "Why does my bf(23 m) always try to humble me(22f) ?"
-    ]
   },
   {
     "keyword": "wife",
     "trendStatus": "🔥 Hot",
     "stats": "1 recent mentions",
     "description": "Current trending discussions surrounding 'wife'.",
-    "questions": [
-      "My wife (27F) wants another baby to stop grieving the loss of our stillborn (3 months ago). I (27M) am not ready for this now. She is threatening to attempt on her life if I don't. What can I do?"
-    ]
+    "questions": []
   },
   {
-    "keyword": "cheating",
-    "trendStatus": "🔥 Hot",
-    "stats": "1 recent mentions",
-    "description": "Current trending discussions surrounding 'cheating'.",
-    "questions": [
-      "Just found out my gf (35F) was cheating on me (35M), what's the best way to leave?"
-    ]
+    "keyword": "times",
+    "trendStatus": "Trending",
+    "stats": "4 recent mentions",
+    "description": "Current trending discussions surrounding 'times'.",
+    "questions": []
+  },
+  {
+    "keyword": "seemed normal",
+    "trendStatus": "Trending",
+    "stats": "2 recent mentions",
+    "description": "Current trending discussions surrounding 'seemed normal'.",
+    "questions": []
+  },
+  {
+    "keyword": "point",
+    "trendStatus": "Trending",
+    "stats": "4 recent mentions",
+    "description": "Current trending discussions surrounding 'point'.",
+    "questions": []
+  },
+  {
+    "keyword": "minutes later",
+    "trendStatus": "Trending",
+    "stats": "2 recent mentions",
+    "description": "Current trending discussions surrounding 'minutes later'.",
+    "questions": []
+  },
+  {
+    "keyword": "came",
+    "trendStatus": "Trending",
+    "stats": "4 recent mentions",
+    "description": "Current trending discussions surrounding 'came'.",
+    "questions": []
   }
 ]
